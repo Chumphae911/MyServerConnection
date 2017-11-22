@@ -16,7 +16,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
-  //  useLibraly  'org.apache.http.legacy'
+    //  useLibraly  'org.apache.http.legacy'
 }
 
 dependencies {

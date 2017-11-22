@@ -1,4 +1,22 @@
 <resources>
     <string name="app_name">MyServerConnection</string>
     <string name="plus">+</string>
+
+    <string name="newregis">สมัครสมาชิก</string>
+    <string name="information">ข้อมูลลงทะเบียน</string>
+    <string name="rname">ชื่อ</string>
+    <string name="rlname">นามสกุล</string>
+    <string name="rid">รหัสบัตรประชาชน</string>
+    <string name="rtal">เบอร์โทรศัพท์</string>
+    <string name="sex">เพศ</string>
+    <string name="memberinformation">ข้อมูลสมาชิก</string>
+    <string name="ruser">ชื่อผู้ใช้งาน</string>
+    <string name="rpassword">รหัสผ่าน</string>
+    <string name="rconfirmpassword">ยืนยันรหัสผ่าน</string>
+    <string name="rupload">เลือกรูป</string>
+    <string name="btnregis">ตกลง</string>
+
+    <string name="cphos">ระบบโรงพยาบาลชุมแพ</string>
+    <string name="HDriver">ฝากรับ-ส่ง พัสดุ</string>
+    <string name="HQuestion">แบบประเมินพนักงานขับรถ</string>
 </resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="logo">200dp</dimen>
+    <dimen name="margin">30dp</dimen>
+    <dimen name="padding">20dp</dimen>
+    <dimen name="margin1">20dp</dimen>
+    <dimen name="h1">25sp</dimen>
+    <dimen name="h2">18sp</dimen>
+    <dimen name="h3">16sp</dimen>
+    <dimen name="padding1">15dp</dimen>
+    <dimen name="padding2">5dp</dimen>
+    <dimen name="padding3">20dp</dimen>
+
+    <dimen name="activity_horizontal_margin">30sp</dimen>
+    <dimen name="activity_vertical_margin">20dp</dimen>
+
+</resources>
